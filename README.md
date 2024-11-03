@@ -7,12 +7,12 @@
 2. James Monroe
 3. John Quincy Adams
 **hi**
-Italic `* *`
-Strikethrough `~~ ~~`
-All bold and italic `*** ***`
-Subscript `<sub> </sub>`
-Superscript `<sup> </sup>`
-Underline `<ins> </ins>`
+Italic *test*
+Strikethrough ~~test~~
+All bold and italic ***hi***
+Subscript <sub>h</sub>
+Superscript <sup>h</sup>
+Underline <ins> </ins>
 # Links
 [I'm an inline-style link](https://www.google.com)
 
